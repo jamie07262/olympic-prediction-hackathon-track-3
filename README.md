@@ -2,5 +2,5 @@
 
 - 🌱 I’m currently learning python
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: enjoy reading 
   
