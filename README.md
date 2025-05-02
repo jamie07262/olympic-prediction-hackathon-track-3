@@ -5,7 +5,7 @@
 This project, developed during the Codedex Hackathon by Franchesca, Daniella, and Saumya, aims to predict outcomes for the 2024 Olympics using advanced statistical methods and machine learning. What started as a way for me to practice Python evolved into a deep dive into data analytics and machine learning. I found myself constantly researching and learning new concepts in this branch of computer science. We utilized historical Olympics data from Kaggle to build our models. As our first virtual hackathon experience, we earned a participation badge and gained valuable insights through the process.
 
 ## Team Contributions
-- Franchesca: Developed data visualizations and applied linear regression techniques. Currently planning to improve the project to explore more about data analysis and practice frontend development.
+- Franchesca: Developed data visualizations and applied linear regression techniques. Currently planning to improve the project to explore more about data analysis.
 - Daniella: Focused on Poisson distribution, the Dixon-Coles model, TensorFlow integration, and analyzed home advantage.
 - Saumya: Designed and delivered the presentation of our methodology, findings, and results for submission.
 
